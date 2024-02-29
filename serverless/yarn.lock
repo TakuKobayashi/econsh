@@ -522,7 +522,7 @@
   dependencies:
     tslib "^2.3.1"
 
-"@codegenie/serverless-express@^4.12.5":
+"@codegenie/serverless-express@^4.13.0":
   version "4.13.0"
   resolved "https://registry.yarnpkg.com/@codegenie/serverless-express/-/serverless-express-4.13.0.tgz#ab382d69d71b3afa2a620a808a47a161543c3dd3"
   integrity sha512-xjTotGExm+2j45T6XTvDuTJO1105jKLf152j9nXXeJboYH3dwd8Ted6guv+jDFNouf0uKOO7AhGRQdCTpLVIiw==
@@ -1570,13 +1570,6 @@
   version "0.12.2"
   resolved "https://registry.yarnpkg.com/@types/retry/-/retry-0.12.2.tgz#ed279a64fa438bb69f2480eda44937912bb7480a"
   integrity sha512-XISRgDJ2Tc5q4TRqvgJtzsRkFYNJzZrhTdtMoGVBttwzzQJkPnS3WWTFc7kuDRoPtPakl+T+OfdEUjYJj7Jbow==
-
-"@vendia/serverless-express@^4.12.6":
-  version "4.12.6"
-  resolved "https://registry.yarnpkg.com/@vendia/serverless-express/-/serverless-express-4.12.6.tgz#332a3c3e2c07069dbb8d3e95d69b23de2fe6dec2"
-  integrity sha512-ePsIPk3VQwgm5nh/JGBtTKQs5ZOF7REjHxC+PKk/CHvhlKQkJuUU365uPOlxuLJhC+BAefDznDRReWxpnKjmYg==
-  dependencies:
-    "@codegenie/serverless-express" "^4.12.5"
 
 abort-controller@^3.0.0:
   version "3.0.0"
